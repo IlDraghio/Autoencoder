@@ -10,3 +10,4 @@ EXTENSIONS = [
     "*amr", "*wma", "*mp2", "*flac", "*alac", "*wavpack", "*tta", "*dts", 
     "*speex", "*vqf", "*realaudio", "*mpc"
 ]
+BYPASS_BAD_VALUES = True
